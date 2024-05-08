@@ -12,7 +12,6 @@ git clone https://github.com/Ddne59/MsPacman_DQRL.git
 ```
 
 ## Results
-Include some snapshots or gifs of the trained model playing Ms. Pac-Man along with a description of the performance metrics such as average score and highest score achieved. This section can illustrate the effectiveness of the DQN model.
 ![Best Score](https://github.com/Ddne59/MsPacman_DQRL/blob/main/thumbnail_Capture%20d%E2%80%99e%CC%81cran%202024-03-13%20a%CC%80%2021.36.00.png)
 
 ## Technologies Used
